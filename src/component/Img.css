@@ -1,0 +1,9 @@
+.img-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.img-1 {
+    width: 150px;
+    height: 50px;
+}
